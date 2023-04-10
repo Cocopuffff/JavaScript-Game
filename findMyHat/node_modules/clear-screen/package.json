@@ -1,0 +1,21 @@
+{
+  "name": "clear-screen",
+  "version": "1.0.0",
+  "description": "Clear your console buffer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "homepage": "https://github.com/seangenabe/clear-screen",
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "repository": "seangenabe/clear-screen",
+  "license": "MIT",
+  "main": "index.js",
+  "browser": "browser.js",
+  "keywords": [
+    "clear",
+    "cls",
+    "terminal",
+    "console"
+  ]
+}
